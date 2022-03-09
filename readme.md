@@ -11,3 +11,6 @@ Este é meu primeiro git.
     "add" para adicionar
     "origin": nome que estou dando para essa conexao.
 //git push -u origin main
+
+
+Primeira alteracao 
