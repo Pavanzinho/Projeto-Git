@@ -37,3 +37,11 @@
 - Entrar na pasta do repositório, onde está o projeto que quer atualizar:
     cd +nome da pasta
 -git pull
+
+# FORK : 
+    É uma forma de colocar repositórios alheios no meu repositório no github
+    -Basta entrar no repositório da pessoa e clickar no botao " fork" na parte superior direita.
+
+# Pull request:
+    após faze o fork do repositório alheio, posso enviar um pull request para solicitar uma possível alteracao no codigo dessa pessoa, caso ela concorde e aceite, o codigo dela será atualizado automáticamente.
+    - Basta entrar no código presente no repositório, alterar e depois mandar um commit(por meio do próprio git hub).
